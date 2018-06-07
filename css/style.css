@@ -239,7 +239,7 @@ ul.todo#todo:empty:after {
 }
 
 ul.todo#completed:empty:after {
-    content: 'You have yet to completeany tasks.'
+    content: 'You have yet to complete any tasks!'
 }
 
 ul.todo#todo:after,
